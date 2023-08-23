@@ -2,26 +2,33 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khushil-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Khushil-21&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushil-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="200" alt="stats graph"  />
-</div>
-
-###
-
 <div align="left">
 </div>
 
 ###
 
-<img align="left" height="210" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="282" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+</div>
 
 ###
 
-<div align="right">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khushil-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="270" alt="languages graph"  />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Khushil-21&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushil-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="211" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.instagram.com/k.hushil21/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fb0aff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -35,13 +42,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Coding Languages</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -57,19 +60,19 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h2 align="left">Frontend</h2>
+<h2 align="right">Frontend</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -101,21 +104,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
 
-<h2 align="left">DataBase</h2>
+<h2 align="right">DataBase</h2>
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="right">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
 </div>
 
@@ -141,13 +144,13 @@
 
 ###
 
-<h2 align="left">Advance Java</h2>
+<h2 align="right">Advance Java</h2>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
