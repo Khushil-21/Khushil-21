@@ -191,3 +191,8 @@
 </div>
 
 ###
+
+
+<img src="https://raw.githubusercontent.com/Khushil-21/Khushil-21/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
