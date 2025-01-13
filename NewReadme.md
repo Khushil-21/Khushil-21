@@ -1,16 +1,5 @@
+View the site [here](https://tshirt-customizer-sandy.vercel.app/).
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Khushil Shah's Portfolio</title>
-   <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100 text-gray-800">
-     <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-</body>
-</html>
+<iframe src="https://tshirt-customizer-sandy.vercel.app/" width="100%" height="600"></iframe>
 
+<iframe src="index.html" width="100%" height="600"></iframe>
