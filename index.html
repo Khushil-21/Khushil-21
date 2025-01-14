@@ -7,6 +7,76 @@
 		<script src="https://cdn.tailwindcss.com"></script>
 	</head>
 	<body class="bg-gray-100 text-gray-800">
-		<h1 class="text-3xl font-bold underline">Hello world!</h1>
+		<!-- Header/Navigation -->
+		<nav class="bg-white shadow-lg">
+			<div class="max-w-6xl mx-auto px-4">
+				<div class="flex justify-between items-center py-4">
+					<div class="text-xl font-bold">Khushil Shah</div>
+					<div class="space-x-6">
+						<a href="#about" class="hover:text-blue-600">About</a>
+						<a href="#projects" class="hover:text-blue-600">Projects</a>
+						<a href="#contact" class="hover:text-blue-600">Contact</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+
+		<!-- Hero Section -->
+		<section class="py-20">
+			<div class="max-w-6xl mx-auto px-4">
+				<div class="text-center">
+					<h1 class="text-5xl font-bold mb-4">Hi, I'm Khushil Shah</h1>
+					<p class="text-xl text-gray-600 mb-8">Software Developer & Problem Solver</p>
+					<button class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700">View My Work</button>
+				</div>
+			</div>
+		</section>
+
+		<!-- About Section -->
+		<section id="about" class="py-20 bg-white">
+			<div class="max-w-6xl mx-auto px-4">
+				<h2 class="text-3xl font-bold mb-8 text-center">About Me</h2>
+				<div class="text-gray-600">
+					<p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>
+			</div>
+		</section>
+
+		<!-- Projects Section -->
+		<section id="projects" class="py-20">
+			<div class="max-w-6xl mx-auto px-4">
+				<h2 class="text-3xl font-bold mb-8 text-center">My Projects</h2>
+				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+					<!-- Project Cards -->
+					<div class="bg-white p-6 rounded-lg shadow-md">
+						<h3 class="text-xl font-bold mb-2">Project 1</h3>
+						<p class="text-gray-600">Project description goes here</p>
+					</div>
+					<div class="bg-white p-6 rounded-lg shadow-md">
+						<h3 class="text-xl font-bold mb-2">Project 2</h3>
+						<p class="text-gray-600">Project description goes here</p>
+					</div>
+					<div class="bg-white p-6 rounded-lg shadow-md">
+						<h3 class="text-xl font-bold mb-2">Project 3</h3>
+						<p class="text-gray-600">Project description goes here</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Contact Section -->
+		<section id="contact" class="py-20 bg-white">
+			<div class="max-w-6xl mx-auto px-4">
+				<h2 class="text-3xl font-bold mb-8 text-center">Contact Me</h2>
+				<div class="max-w-lg mx-auto">
+					<form class="space-y-4">
+						<input type="text" placeholder="Name" class="w-full p-2 border rounded">
+						<input type="email" placeholder="Email" class="w-full p-2 border rounded">
+						<textarea placeholder="Message" class="w-full p-2 border rounded h-32"></textarea>
+						<button class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 w-full">Send Message</button>
+					</form>
+				</div>
+			</div>
+		</section>
 	</body>
 </html>
