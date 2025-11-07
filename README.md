@@ -22,6 +22,9 @@
 </div>
 
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=khushil-21&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 ---
 
 ## 🚀 What I Do
@@ -65,5 +68,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khushil-21" height="200" alt="GitHub Streak" />
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=khushil-21&icon=0&color=0)](https://visitcount.itsvg.in)
