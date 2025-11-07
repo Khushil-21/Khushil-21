@@ -61,3 +61,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Khushil-21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khushil-21" height="200" alt="GitHub Streak" />
+</div>
